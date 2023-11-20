@@ -139,3 +139,7 @@ This helps to identify instances more quickly.
 2f) Configuring security groups: 
 
 These are used to specify rules based on which users are given access to the EC2 instance. You set up the type of security, protocol, the port range, and source (from where the incoming traffic is coming from). Incoming traffic has to be explicitly specified, and outgoing traffic is open.
+
+2g) Review
+
+Click on ‘Launch’ and the instance is created. However, there’s a little more work to be done.
