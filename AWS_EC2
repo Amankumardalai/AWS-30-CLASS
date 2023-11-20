@@ -9,6 +9,22 @@ You have complete control
 Highly secure
 You can access your assets from anywhere in the world
 
+# Instances: EC2 provides virtual servers known as instances. These instances can be easily and quickly scaled up or down based on your computing requirements.
+
+Variety of Instances: EC2 offers a variety of instance types optimized to fit different use cases. Instances can vary in terms of CPU, memory, storage, and networking capacity.
+
+AMI (Amazon Machine Image): To create an EC2 instance, you start with an Amazon Machine Image, which is a pre-configured template that contains the software configuration (operating system, application server, and applications) required to launch an instance.
+
+Regions and Availability Zones: EC2 instances can be launched in multiple geographic regions around the world. Each region consists of multiple isolated data centers called Availability Zones, which provide high availability and fault tolerance.
+
+Elastic Load Balancing: EC2 instances can be easily balanced using Elastic Load Balancing, distributing incoming application traffic across multiple instances to ensure no single instance is overwhelmed.
+
+Security Groups and Network Access Control Lists (ACLs): You can control inbound and outbound traffic to your instances using security groups and network ACLs.
+
+Amazon EBS (Elastic Block Store): EC2 instances can use Amazon EBS volumes as durable block-level storage. These volumes can be attached to instances and used like physical hard drives.
+
+Auto Scaling: EC2 Auto Scaling allows you to automatically scale your EC2 capacity up or down based on conditions you define.
+
 # Use Cases of Amazon EC2
 >Deploying Application: In the AWS EC2 instance, you can deploy your application like .jar,.war, or .ear application without maintaining the underlying infrastructure.
 
