@@ -33,44 +33,55 @@ This day focuses on Amazon S3, a scalable object storage service. You'll learn h
 Project: Configure and manage a domain name using Route 53. You'll register a domain, set up DNS records, and explore advanced features such as health checks, routing policies, and DNS-based failover.
 >
 > 10: AWS CLI
+> 
 >
 > 11: AWS CloudFormation
+> 
 >
 > 12: AWS CodeCommit
 This day focuses on AWS CodeCommit, a managed source control service. You'll learn how to set up a Git repository in CodeCommit, collaborate with team members, and manage version control of your codebase.
 Project: You'll configure a CodeCommit repository for a team project, including setting up access control and collaboration workflows.
+> 
 >
 > 13: AWS CodePipeline
 You'll dive into AWS CodePipeline, a fully managed continuous delivery service. You'll learn how to build end-to-end CI/CD pipelines by configuring source, build, and deployment stages, automating the entire software release process.
 Project: You'll create a CI/CD pipeline using CodePipeline for an application deployment, including source code integration, build, and automatic deployment to a target environment.
+> 
 >
 > 14: AWS CodeBuild
 This day focuses on AWS CodeBuild, a fully managed build service. You'll learn how to configure build projects in CodeBuild, define build specifications, and perform build and testing processes.
+> 
 >
 > 15: AWS CodeDeploy
 You'll explore AWS CodeDeploy, a service for automating application deployments to various compute environments. You'll learn how to create deployment groups, configure deployment strategies, and perform automatic rollbacks if necessary.
+> 
 >
 > 16: AWS CloudWatch
 This day focuses on monitoring AWS resources using AWS CloudWatch. You'll learn how to create alarms, set up notifications, and collect metrics to gain insights into the health and performance of your applications and infrastructure.
 >
 > 17: AWS Lambda
 This day introduces serverless computing with AWS Lambda. You'll learn how to create and deploy serverless functions, trigger them based on events, and leverage Lambda to build scalable and event-driven architectures.
+> 
 >
 > 18: AWS CloudWatch Events and EventBridge
 This day focuses on AWS CloudWatch Events and EventBridge, services for event-driven architectures. You'll learn how to create event rules, configure event targets, and build serverless event-driven workflows.
 Project: You'll build a serverless event-driven workflow using CloudWatch Events and EventBridge, demonstrating the integration and automation of different AWS services based on events.
+> 
 >
 > 19: AWS CloudFront
 If you've never heard of CDN or CloudFront before, don't worry, we will start from scratch and gradually build up your understanding. By the end, you'll be well-versed in these technologies.
 Project: You'll configure a s3 bucket to host a static website and learn how to serve the requests to this website through CDN that is AWS Cloud Front.
+> 
 >
 > 20: AWS ECR (Elastic Container Registry)
 You'll explore AWS ECR, a fully managed container registry for storing and managing container images. You'll learn how to push and pull Docker images to and from ECR, enabling seamless integration with ECS and other container services.
 Project: You'll build a CI/CD pipeline that automatically builds, pushes, and deploys Docker images to ECR, ensuring streamlined container image management.
+> 
 >
 > 21: AWS ECS (Elastic Container Service)
 This day focuses on AWS ECS, a fully managed container orchestration service. You'll learn how to run and manage containers using ECS, including creating task definitions, managing services, and scaling with auto-scaling capabilities.
 Project: You'll deploy a multi-container application using ECS, configure auto-scaling policies, and ensure high availability and efficient resource utilization.
+> 
 >
 > 22: AWS EKS (Elastic Kubernetes Service)
 This day introduces AWS EKS, a fully managed Kubernetes service. You'll learn how to deploy and manage Kubernetes clusters using EKS, including launching worker nodes, configuring networking, and deploying applications using Kubernetes manifests.
