@@ -14,3 +14,15 @@ Amazon Web service offers EC2 which is a short form of Elastic Compute Cloud (EC
 >Hybrid Cloud Environment: You can deploy your web application in EC2-Instance and you can connect to the database which is deployed in the on-premises servers.
 
 >Cost-Effective: Amazon EC2-instance is cost-effective so you can deploy your gaming application in the Amazon EC2-Instances
+
+
+#Amazon EC2 Pricing
+
+*Amazon EC2 instances are priced per second according to five different options:
+
+On-demand
+Spot instances (discounted short-term capacity if available)
+Savings Plans (commitment to a certain amount of usage)
+Reserved Instances (discounted reserved long-term capacity)
+Dedicated Hosts (on-demand hourly or by reserved instances)
+
